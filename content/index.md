@@ -6,6 +6,8 @@ This content is from _index.md_. This is a [link](other.html) to the _other_ pag
 printf("Hello Word!");
 ~~~
 
+알파입니다.
+
 * qwe
 * qwe
 * qwe
